@@ -3,12 +3,30 @@
     <title>Mãe de Guri e Guria</title>
     <link href="https://maedegurieguria.com.br/feed.xml" rel="self" />
     <link href="https://maedegurieguria.com.br" />
-    <updated>2025-05-17T03:49:00+00:00</updated>
+    <updated>2025-05-25T17:54:21+00:00</updated>
     <author>
         <name>Joana</name>
     </author>
     <id>https://maedegurieguria.com.br</id>
 
+    <entry>
+        <title>Tudo Sobre o Bolsa Família</title>
+        <author>
+            <name>Joana</name>
+        </author>
+        <link href="https://maedegurieguria.com.br/tudo-sobre-o-bolsa-familia/"/>
+        <id>https://maedegurieguria.com.br/tudo-sobre-o-bolsa-familia/</id>
+        <media:content url="https://maedegurieguria.com.br/media/posts/125/bolsa-familia.jpg" medium="image" />
+
+        <updated>2025-05-25T17:54:21+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maedegurieguria.com.br/media/posts/125/bolsa-familia.jpg" alt="" />
+                    O Bolsa Família é um dos principais programas sociais do Brasil, voltado para a transferência direta de renda a famílias&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>O Equilíbrio Entre a Maternidade e o Trabalho</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                         <img src="https://maedegurieguria.com.br/media/posts/40/Reescreva-em-Portugues-do-Brasil-Suplementacao-na-Gestacao-Suplementar-Omega.jpg" alt="" />
-                    Reescreva esse texto e deixe sempre em portugues do brasil. Coloque Introdução, e Subtitulos padrão H2. Utilize o formato HTML&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Reescreva em Portugues do Brasil 14ª SEMANA DE GESTAÇÃO | Tamanho do Feto, Colostro, Barriga de 4 meses | 2º TRIMESTRE DE GRAVIDEZ</title>
-        <author>
-            <name>Joana</name>
-        </author>
-        <link href="https://maedegurieguria.com.br/reescreva-em-portugues-do-brasil-14a-semana-de-gestacao-or-tamanho-do-feto-colostro-barriga-de-4-meses-or-2o-trimestre-de-gravidez/"/>
-        <id>https://maedegurieguria.com.br/reescreva-em-portugues-do-brasil-14a-semana-de-gestacao-or-tamanho-do-feto-colostro-barriga-de-4-meses-or-2o-trimestre-de-gravidez/</id>
-        <media:content url="https://maedegurieguria.com.br/media/posts/39/Reescreva-em-Portugues-do-Brasil-14a-SEMANA-DE-GESTACAO.jpg" medium="image" />
-
-        <updated>2025-02-06T20:52:32+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maedegurieguria.com.br/media/posts/39/Reescreva-em-Portugues-do-Brasil-14a-SEMANA-DE-GESTACAO.jpg" alt="" />
                     Reescreva esse texto e deixe sempre em portugues do brasil. Coloque Introdução, e Subtitulos padrão H2. Utilize o formato HTML&hellip;
                 ]]>
             </summary>
