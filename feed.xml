@@ -3,12 +3,30 @@
     <title>Mãe de Guri e Guria</title>
     <link href="https://maedegurieguria.com.br/feed.xml" rel="self" />
     <link href="https://maedegurieguria.com.br" />
-    <updated>2025-06-26T23:07:58+00:00</updated>
+    <updated>2025-07-22T17:25:56+00:00</updated>
     <author>
         <name>Joana</name>
     </author>
     <id>https://maedegurieguria.com.br</id>
 
+    <entry>
+        <title>O Guia Definitivo de Brinquedos Criativos para Fomentar a Imaginação Infantil</title>
+        <author>
+            <name>Joana</name>
+        </author>
+        <link href="https://maedegurieguria.com.br/brinquedos-criativos-para-desenvolver-a-imaginacao/"/>
+        <id>https://maedegurieguria.com.br/brinquedos-criativos-para-desenvolver-a-imaginacao/</id>
+        <media:content url="https://maedegurieguria.com.br/media/posts/133/images.jpg" medium="image" />
+
+        <updated>2025-07-18T16:39:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maedegurieguria.com.br/media/posts/133/images.jpg" alt="" />
+                    Em um mundo cada vez mais digital e estruturado, a capacidade de imaginar tornou-se uma das habilidades mais preciosas que&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Imunidade Infantil: Como Fortalecer as Defesas Naturais do Seu Filho de Forma Saudável</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                         <img src="https://maedegurieguria.com.br/media/posts/22/Criancas-no-onibus.jpg" alt="" />
                     Você sabia que quase 25 milhões de crianças usam ônibus escolares todos os dias nos EUA? Com um número tão significativo, garantir&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Novo Echo Spot com Alexa: um gadget divertido para crianças curiosas</title>
-        <author>
-            <name>Joana</name>
-        </author>
-        <link href="https://maedegurieguria.com.br/novo-echo-spot-com-alexa-um-gadget-divertido-para-criancas-curiosas/"/>
-        <id>https://maedegurieguria.com.br/novo-echo-spot-com-alexa-um-gadget-divertido-para-criancas-curiosas/</id>
-        <media:content url="https://maedegurieguria.com.br/media/posts/2/Novo-Echo-Spot-com-Alexa-Review.webp" medium="image" />
-
-        <updated>2025-03-03T16:39:10+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maedegurieguria.com.br/media/posts/2/Novo-Echo-Spot-com-Alexa-Review.webp" alt="" />
-                    Imagine uma pequena janela para um mundo de conhecimento e entretenimento, e é isso que o novo Echo Spot com Alexa oferece&hellip;
                 ]]>
             </summary>
         <content></content>
