@@ -3,12 +3,30 @@
     <title>Mãe de Guri e Guria</title>
     <link href="https://maedegurieguria.com.br/feed.xml" rel="self" />
     <link href="https://maedegurieguria.com.br" />
-    <updated>2026-06-10T00:00:00-03:00</updated>
+    <updated>2026-06-17T21:00:00-03:00</updated>
     <author>
         <name>Joana</name>
     </author>
     <id>https://maedegurieguria.com.br</id>
 
+    <entry>
+        <title>Advogado de Concurso Público: Proteção Jurídica ao Candidato</title>
+        <author>
+            <name>Joana</name>
+        </author>
+        <link href="https://maedegurieguria.com.br/advogado-de-concurso-publico-protecao-juridica-ao-candidato/"/>
+        <id>https://maedegurieguria.com.br/advogado-de-concurso-publico-protecao-juridica-ao-candidato/</id>
+        <media:content url="https://maedegurieguria.com.br/media/posts/158/advogado-de-concurso-publico-protecao-juridica-ao-candidato.jpg" medium="image" />
+
+        <updated>2026-06-17T21:00:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://maedegurieguria.com.br/media/posts/158/advogado-de-concurso-publico-protecao-juridica-ao-candidato.jpg" alt="" />
+                    Você já parou para pensar no quanto a jornada rumo a um cargo público pode ser sinuosa? Não é só&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Jejum é seguro para mães? Entenda os efeitos nos hormônios</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                         <img src="https://maedegurieguria.com.br/media/posts/166/como-calcular-o-tempo-ideal-para-atividades-infantis-diarias.jpg" alt="" />
                     Garantir que as crian&ccedil;as tenham uma rotina equilibrada &eacute; fundamental para o desenvolvimento saud&aacute;vel e feliz. A gest&atilde;o do tempo&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Como garantir nutrientes saudáveis para o crescimento dos pequenos</title>
-        <author>
-            <name>Joana</name>
-        </author>
-        <link href="https://maedegurieguria.com.br/como-garantir-nutrientes-saudaveis-para-o-crescimento-dos-pequenos/"/>
-        <id>https://maedegurieguria.com.br/como-garantir-nutrientes-saudaveis-para-o-crescimento-dos-pequenos/</id>
-        <media:content url="https://maedegurieguria.com.br/media/posts/176/como-garantir-nutrientes-saudaveis-para-o-crescimento-dos-pequenos.jpg" medium="image" />
-
-        <updated>2026-04-23T00:00:00-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://maedegurieguria.com.br/media/posts/176/como-garantir-nutrientes-saudaveis-para-o-crescimento-dos-pequenos.jpg" alt="" />
-                    Garantir uma alimenta&ccedil;&atilde;o rica em nutrientes saud&aacute;veis &eacute; fundamental para o desenvolvimento adequado das crian&ccedil;as. Durante a inf&acirc;ncia, o corpo&hellip;
                 ]]>
             </summary>
         <content></content>
