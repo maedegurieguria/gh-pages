@@ -3,12 +3,30 @@
     <title>Mãe de Guri e Guria</title>
     <link href="https://maedegurieguria.com.br/feed.xml" rel="self" />
     <link href="https://maedegurieguria.com.br" />
-    <updated>2026-06-19T00:00:00-03:00</updated>
+    <updated>2026-06-22T00:00:00-03:00</updated>
     <author>
         <name>Joana</name>
     </author>
     <id>https://maedegurieguria.com.br</id>
 
+    <entry>
+        <title>Ciência e Praticidade para uma Pele Saudável em Qualquer Idade</title>
+        <author>
+            <name>Joana</name>
+        </author>
+        <link href="https://maedegurieguria.com.br/ciencia-e-praticidade-para-uma-pele-saudavel-em-qualquer-idade/"/>
+        <id>https://maedegurieguria.com.br/ciencia-e-praticidade-para-uma-pele-saudavel-em-qualquer-idade/</id>
+        <media:content url="https://maedegurieguria.com.br/media/posts/187/ciencia-e-praticidade-para-uma-pele-saudavel-em-qualquer-idade.jpg" medium="image" />
+
+        <updated>2026-06-22T00:00:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://maedegurieguria.com.br/media/posts/187/ciencia-e-praticidade-para-uma-pele-saudavel-em-qualquer-idade.jpg" alt="" />
+                    A busca por uma pele saud&aacute;vel &eacute; um desejo universal que atravessa gera&ccedil;&otilde;es. Independentemente da faixa et&aacute;ria, manter a pele&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Guia simples: moedas do FIFA para o universo infantil</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                         <img src="https://maedegurieguria.com.br/media/posts/174/qual-a-diferenca-entre-tela-de-protecao-e-rede-de-protecao.jpg" alt="" />
                     Quando o assunto &eacute; seguran&ccedil;a residencial ou comercial, a escolha dos equipamentos certos faz toda a diferen&ccedil;a para garantir a&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>5 dicas para manter cabelos saudáveis nas crianças de Vitória ES</title>
-        <author>
-            <name>Joana</name>
-        </author>
-        <link href="https://maedegurieguria.com.br/5-dicas-para-manter-cabelos-saudaveis-nas-criancas-de-vitoria-es/"/>
-        <id>https://maedegurieguria.com.br/5-dicas-para-manter-cabelos-saudaveis-nas-criancas-de-vitoria-es/</id>
-        <media:content url="https://maedegurieguria.com.br/media/posts/157/5-dicas-para-manter-cabelos-saudaveis-nas-criancas-de-vitoria-es.jpg" medium="image" />
-
-        <updated>2026-04-30T21:00:00-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://maedegurieguria.com.br/media/posts/157/5-dicas-para-manter-cabelos-saudaveis-nas-criancas-de-vitoria-es.jpg" alt="" />
-                    Cuidar dos cabelos das crian&ccedil;as &eacute; uma tarefa que demanda aten&ccedil;&atilde;o especial, principalmente em locais com clima quente e &uacute;mido,&hellip;
                 ]]>
             </summary>
         <content></content>
