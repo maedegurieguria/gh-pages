@@ -3,12 +3,30 @@
     <title>Mãe de Guri e Guria</title>
     <link href="https://maedegurieguria.com.br/feed.xml" rel="self" />
     <link href="https://maedegurieguria.com.br" />
-    <updated>2026-07-04T19:00:00-03:00</updated>
+    <updated>2026-07-12T00:00:00-03:00</updated>
     <author>
         <name>Joana</name>
     </author>
     <id>https://maedegurieguria.com.br</id>
 
+    <entry>
+        <title>Como Escolher Textos Bíblicos Simples para Crianças</title>
+        <author>
+            <name>Joana</name>
+        </author>
+        <link href="https://maedegurieguria.com.br/como-escolher-textos-biblicos-simples-para-criancas/"/>
+        <id>https://maedegurieguria.com.br/como-escolher-textos-biblicos-simples-para-criancas/</id>
+        <media:content url="https://maedegurieguria.com.br/media/posts/185/como-escolher-textos-biblicos-simples-para-criancas.jpg" medium="image" />
+
+        <updated>2026-07-12T00:00:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://maedegurieguria.com.br/media/posts/185/como-escolher-textos-biblicos-simples-para-criancas.jpg" alt="" />
+                    A educa&ccedil;&atilde;o religiosa infantil &eacute; uma etapa fundamental para o desenvolvimento espiritual e moral das crian&ccedil;as. Apresentar textos b&iacute;blicos simples&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Por que partes que giram são importantes no brinquedo dos pequenos?</title>
         <author>
@@ -167,24 +185,6 @@
                 <![CDATA[
                         <img src="https://maedegurieguria.com.br/media/posts/178/jejum-e-seguro-para-maes-entenda-os-efeitos-nos-hormonios.jpg" alt="" />
                     O jejum tem ganhado popularidade como uma pr&aacute;tica associada &agrave; sa&uacute;de, perda de peso e longevidade. No entanto, quando o&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Como Economizar em Roupas Infantis com Descontos Exclusivos</title>
-        <author>
-            <name>Joana</name>
-        </author>
-        <link href="https://maedegurieguria.com.br/como-economizar-em-roupas-infantis-com-descontos-exclusivos/"/>
-        <id>https://maedegurieguria.com.br/como-economizar-em-roupas-infantis-com-descontos-exclusivos/</id>
-        <media:content url="https://maedegurieguria.com.br/media/posts/170/como-economizar-em-roupas-infantis-com-descontos-exclusivos.jpg" medium="image" />
-
-        <updated>2026-06-06T00:00:00-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://maedegurieguria.com.br/media/posts/170/como-economizar-em-roupas-infantis-com-descontos-exclusivos.jpg" alt="" />
-                    Comprar roupas infantis pode ser um desafio para muitos pais e respons&aacute;veis, especialmente quando se busca qualidade aliada a pre&ccedil;os&hellip;
                 ]]>
             </summary>
         <content></content>
