@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://maedegurieguria.com.br/sitemap.xml
